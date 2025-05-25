@@ -1,5 +1,15 @@
 # S3 aApp
 
+#### :warning: Important Notice
+This repository was moved to https://github.com/comrade-coop/apocryph. Use:
+```
+git remote set-url origin git://github.com/comrade-coop/apocryph
+```
+or
+```
+git remote set-url origin git@github.com:comrade-coop/apocryph.git
+```
+to update your local clone/s to point to the right repository. What follows is the original README from before the move:
 
 ## Docker
 
